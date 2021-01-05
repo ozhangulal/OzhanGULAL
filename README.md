@@ -9,4 +9,3 @@ I am Ozhan. I graduated from Ege University Department of Computer Science&Stati
 - 💬 Ask me about asp.net, net core technologies and microsoft certificates
 - 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/ozhangulal/) and email to ozhangulal@outlook.com
 - ⚡ Fun fact: still wanna be basketball player on NBA =)
--->
